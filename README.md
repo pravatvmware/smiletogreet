@@ -1,2 +1,2 @@
-# smiletogreet
-my first website
+# pravat-blog-post
+pravat-blog-post
